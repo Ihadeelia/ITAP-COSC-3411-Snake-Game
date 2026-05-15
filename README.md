@@ -15,4 +15,4 @@ How to Run the Game
 4. Open a terminal or command prompt.
 5. Run the following command:
 6. ./pro3.py
-زظ
+
