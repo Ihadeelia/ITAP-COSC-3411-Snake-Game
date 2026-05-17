@@ -15,8 +15,9 @@ The game allows Player 1 to control the snake manually, while Player 2 is contro
 
 1. Open a terminal or command prompt.
 2. Run the following command:
-{./pro3.py}
-
+```
+./pro3.py
+```
 
 
 
