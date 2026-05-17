@@ -29,7 +29,4 @@ The game allows Player 1 to control the snake manually, while Player 2 is contro
 
 ## Configuration
 
-
-
-
-
+The game runs with a fixed window size, speed, and background color. The apple image file must be included in the same folder for the game to work properly.
