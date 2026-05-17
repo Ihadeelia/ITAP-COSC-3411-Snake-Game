@@ -20,7 +20,7 @@ The game allows Player 1 to control the snake manually, while Player 2 is contro
 ```
 
 ## How to play the game
-<img width="800" height="800" alt="Player 1" src="https://github.com/user-attachments/assets/22340afc-edfa-4902-afe3-a51f2f995407" />
+<img width="100" height="100" alt="Player 1" src="https://github.com/user-attachments/assets/22340afc-edfa-4902-afe3-a51f2f995407" />
 
 
 
