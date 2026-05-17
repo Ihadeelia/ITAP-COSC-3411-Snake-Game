@@ -23,9 +23,9 @@ The game allows Player 1 to control the snake manually, while Player 2 is contro
 <img width="400" height="400" alt="Player 1" src="https://github.com/user-attachments/assets/22340afc-edfa-4902-afe3-a51f2f995407" />
 
 
-**Player 1 (blue):** Use the Arrow keys in your keyboard to move your snake.
-**Player 2 (pink):** This player is controlled by a computer.
-The goal of this game is to collect apples to gain points and grow bigger, while competing with a player that is controlled by the computer.
+1. **Player 1 (blue):** Use the Arrow keys in your keyboard to move your snake.
+2. **Player 2 (pink):** This player is controlled by a computer.
+3. The goal of this game is to collect apples to gain points and grow bigger, while competing with a player that is controlled by the computer.
 
 
 
