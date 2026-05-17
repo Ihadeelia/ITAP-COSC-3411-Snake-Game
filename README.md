@@ -19,5 +19,9 @@ The game allows Player 1 to control the snake manually, while Player 2 is contro
 ./pro3.py
 ```
 
+## How to play the game
+<img width="1010" height="1048" alt="Player 1" src="https://github.com/user-attachments/assets/22340afc-edfa-4902-afe3-a51f2f995407" />
+
+
 
 
